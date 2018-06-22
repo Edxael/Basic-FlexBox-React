@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(207, 211, 210);
+    padding: 15px;
+}
+
+.Top-Part{
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    height: 20vh;
+}
+
+
+
+.Center-Part{
+    background-color: rgb(82, 255, 140);
+    border: 1px solid black;
+    margin-bottom: 10px;
+    height: 70vh;
+    display: flex;
+}
+
+.Center-Left{
+    background-color: blueviolet;
+    border: 1px solid black;
+    padding: 5px;
+    margin-right: 7px;
+    width: 20vw;
+}
+
+.Center-Right{
+    background-color: rgb(141, 104, 175);
+    border: 1px solid black;
+    padding: 5px;
+    width: 80vw;
+}
+
+
+
+
+
+
+
+
+.Bottom-Part{
+    background-color: rgb(82, 206, 255);
+    border: 1px solid black;
+    margin-bottom: 10px;
+    height: 10vh;
+}
+
